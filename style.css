@@ -1,0 +1,11 @@
+#userUrl {
+	text-decoration: none;
+	color: #ccc;
+}
+#userName, #userStatus, #userFoto {
+	margin-bottom: 20px;
+}
+.wrap {
+	width: 300px;
+	margin: 0 auto;
+}
